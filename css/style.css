@@ -1,14 +1,10 @@
 /*------------------------------ General style ------------------------------*/
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
 body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: justify;
   font-size: 1.0em;
+  max-width: 1024px;
+  margin: auto;
 }
 
 img {
